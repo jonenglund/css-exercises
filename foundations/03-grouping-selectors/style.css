@@ -1,0 +1,15 @@
+.buttonbase,
+.invertedbutton
+{
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+.invertedbutton
+{
+    background-color: black;
+    color:white;
+}
+.buttonbase
+{
+    background-color: yellow;
+}
